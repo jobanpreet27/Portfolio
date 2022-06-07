@@ -1,3 +1,3 @@
 # Portfolio
 
-My personal Portolio built with React.js and Tailwind.
+My personal portolio built with React.js and Tailwind.
