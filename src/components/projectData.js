@@ -12,7 +12,7 @@ const projects = [
     title: "Mobile Browser",
     image: "./images/mb-mockup.png",
     description:
-      "Movie broswer built using React-Native, Expo and OMDb API. It allow user to search movie and is supported on both android and iOS. ",
+      "Movie broswer built using React-Native, Expo and OMDb API. It allows user to search movies and is supported on both android and iOS. ",
     tools: ["React-Native", "Redux", "Expo"],
     github: "https://github.com/jobanpreet27/movie-browser",
     link: "https://github.com/jobanpreet27/movie-browser",
