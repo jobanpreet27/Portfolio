@@ -17,6 +17,15 @@ const projects = [
     github: "https://github.com/jobanpreet27/movie-browser",
     link: "https://github.com/jobanpreet27/movie-browser",
   },
+  {
+    title: "Python Notes App",
+    image: "./images/pn-mockup.png",
+    description:
+      "Python Notes App built using Python, Flask and Bootstrap. Users can register using email and securely save their notes.",
+    tools: ["Python", "Flask", "Bootstrap"],
+    github: "https://github.com/jobanpreet27/python-notes-app",
+    link: "https://python-notesapp.herokuapp.com",
+  },
 ];
 
 export default projects;
