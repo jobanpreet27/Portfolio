@@ -3,10 +3,10 @@ const projects = [
     title: "Winnipeg Transit",
     image: "./images/wt-mockup.png",
     description:
-      "Transit Schedule WebApp built with React, Express and Winnipeg's API. It uses server hosted at AWS EC2 instance.",
-    tools: ["React", "Express", "AWS"],
+      "Transit Schedule WebApp built with Nextjs, React, OneSignal and Winnipeg Transit's API. Features include setting alerts for bus arrival and save important stops. .",
+    tools: ["Nextjs", "React", "Material UI"],
     github: "https://github.com/jobanpreet27/winnipeg-transit-webapp",
-    link: "https://transit.jobanpreet.ca/",
+    link: "https://wtransit.herokuapp.com/",
   },
   {
     title: "Mobile Browser",
