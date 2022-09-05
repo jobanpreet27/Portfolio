@@ -5,7 +5,7 @@ const projects = [
     description:
       "Transit Schedule WebApp built with Nextjs, React, OneSignal and Winnipeg Transit's API. Features include setting alerts for bus arrival and save important stops. .",
     tools: ["Nextjs", "React", "Material UI"],
-    github: "https://github.com/jobanpreet27/winnipeg-transit-webapp",
+    github: "https://github.com/jobanpreet27/winnipeg-transit-webapp-nextjs",
     link: "https://wtransit.herokuapp.com/",
   },
   {
